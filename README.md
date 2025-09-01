@@ -23,7 +23,3 @@ It is built using **basic concepts only**:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/simple-calculator-python.git
