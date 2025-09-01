@@ -1,2 +1,29 @@
-# simple-calculator-python
-A beginner-friendly Python project: Simple Calculator using variables, data types, operators, and if-else conditions.
+# 🧮 Simple Calculator (Python)
+
+This is a beginner-friendly **Python mini project** that works as a simple calculator.  
+It is built using **basic concepts only**:
+- Variables  
+- Data Types  
+- Operators  
+- If-Else Conditions  
+
+---
+
+## ⚡ Features
+- Supports basic operations:
+  - Addition (+)  
+  - Subtraction (-)  
+  - Multiplication (*)  
+  - Division (/)  
+  - Modulus (%)  
+  - Floor Division (//)  
+  - Exponentiation (**)  
+- Handles **division by zero** error.  
+- Beginner-friendly and easy to understand.  
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/simple-calculator-python.git
